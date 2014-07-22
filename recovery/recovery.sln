@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recovery", "recovery\recovery.csproj", "{930E9CC2-43F1-414D-92C6-DD0621F08AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml", "xml\xml.csproj", "{BF2B0529-19B8-4F9C-A829-28E0403CBBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930E9CC2-43F1-414D-92C6-DD0621F08AC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BF2B0529-19B8-4F9C-A829-28E0403CBBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2B0529-19B8-4F9C-A829-28E0403CBBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2B0529-19B8-4F9C-A829-28E0403CBBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2B0529-19B8-4F9C-A829-28E0403CBBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
